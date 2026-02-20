@@ -1,0 +1,74 @@
+{
+  "kind": "build_request",
+  "title": "Create landing page for making money online with CTA buttons",
+  "projectName": "Money Online Hub",
+  "priority": "normal",
+  "requirements": [
+    {
+      "id": "REQ-1",
+      "text": "Create a landing page with a 'make money online' theme that includes 5-6 prominent call-to-action (CTA) buttons, each linking to https://globalnewsdesk727.blogspot.com",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "Please create a landing page for me about make money online which will have 5-6 STA buttons and add this link to all the buttons"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Landing page displays 5-6 distinct CTA buttons",
+        "All CTA buttons link to https://globalnewsdesk727.blogspot.com",
+        "Page theme clearly relates to making money online"
+      ]
+    },
+    {
+      "id": "REQ-2",
+      "text": "Add a contact button to the landing page with appropriate styling and placement",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "there will be a contract button"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Contact button is visible and accessible on the landing page",
+        "Contact button styling matches the overall design theme"
+      ]
+    },
+    {
+      "id": "REQ-3",
+      "text": "Design the landing page with a creative, professional visual theme that avoids blue and purple colors, using a distinct style with cohesive typography, color palette, and layout that conveys trust and opportunity in the online earning space",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "It will look nice"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Visual design is cohesive and professional",
+        "Color scheme avoids blue and purple",
+        "Typography and layout create a polished appearance"
+      ]
+    }
+  ],
+  "constraints": [],
+  "nonGoals": [
+    "Backend integration for contact form submission",
+    "User authentication or login functionality",
+    "Database storage of contact information"
+  ],
+  "imageRequirements": {
+    "required": [
+      "Hero background image showing laptop and money symbols in warm tones (hero-background.dim_1920x1080.png)",
+      "Icon representing online earning opportunity with gradient effect (earning-icon.dim_256x256.png)"
+    ],
+    "edits": []
+  }
+}

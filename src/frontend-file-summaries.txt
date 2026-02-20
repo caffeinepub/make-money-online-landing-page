@@ -1,0 +1,7 @@
+{
+  "frontend/src/App.tsx": "Main application component that renders the LandingPage as the root view.",
+  "frontend/src/pages/LandingPage.tsx": "Complete landing page with hero section, 6 CTA buttons linking to the external blog, benefits section, and footer with contact functionality.",
+  "frontend/src/components/CTAButton.tsx": "Reusable CTA button component with icon, text, description, and external link support with hover effects.",
+  "frontend/src/index.css": "Global styles with OKLCH color system using warm gold, green, and orange palette for money-making theme, avoiding blue and purple.",
+  "frontend/tailwind.config.js": "Tailwind configuration with custom color tokens, success color, custom fonts, and shadow utilities for the landing page design."
+}

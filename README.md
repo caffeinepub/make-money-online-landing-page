@@ -1,2 +1,3 @@
-# make-money-online-landing-page
-Exported from Caffeine project: Make Money Online Landing Page
+## Make Money Online Landing Page
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`

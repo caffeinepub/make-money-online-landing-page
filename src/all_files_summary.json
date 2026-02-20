@@ -1,0 +1,16 @@
+{
+  "backend/main.mo": "Empty Motoko actor serving as a placeholder backend canister with no implemented functionality.",
+  "feature_evidence.json": "Feature evidence report documenting three implemented features: landing page with 5-6 CTA buttons, contact button, and creative visual theme avoiding blue/purple colors.",
+  "frontend-file-summaries.txt": "JSON-formatted summaries of frontend files describing the landing page structure, components, and styling approach.",
+  "frontend/index.css": "Tailwind CSS configuration with OKLCH color system defining neutral grayscale palette for light and dark modes.",
+  "frontend/index.html": "HTML entry point with root div and module script reference for the React application titled 'Make Money Online Landing Page'.",
+  "frontend/src/App.tsx": "Root React component that renders the LandingPage component.",
+  "frontend/src/components/CTAButton.tsx": "Reusable CTA button component with icon, text, description, and external link support featuring hover animations and styling.",
+  "frontend/src/hooks/useActor.ts": "React hook for managing authenticated/anonymous backend actor instances with identity-based query invalidation.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React context provider and hook for Internet Identity authentication with login, logout, and identity state management.",
+  "frontend/src/index.css": "Tailwind CSS styles with OKLCH color system using warm gold, green, and orange palette for money-making theme in light and dark modes.",
+  "frontend/src/main.tsx": "React application entry point setting up QueryClient, InternetIdentityProvider, and rendering the App component.",
+  "frontend/src/pages/LandingPage.tsx": "Complete landing page with hero section, 6 CTA buttons linking to external blog, benefits section, contact button, and footer with email functionality.",
+  "frontend/tailwind.config.js": "Tailwind CSS configuration file defining custom color schemes using OKLCH color space, typography settings with Inter and Cal Sans fonts, container queries, animations, and extended theme properties including sidebar, chart, and semantic color tokens.",
+  "project_state.json": "Project state file for a 'Make Money Online' landing page with 5-6 CTA buttons linking to an external blog, featuring warm color scheme (avoiding blue/purple), contact button, and professional design conveying trust and opportunity."
+}
